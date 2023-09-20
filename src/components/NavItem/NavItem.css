@@ -1,0 +1,16 @@
+.item-principal{
+    width: 220px;
+    height: 49px;
+    display: flex;
+    margin-left: 20px;
+    padding-bottom: -10px;
+}
+
+.item-icon{
+    width: 20%;
+    margin-right: -5px;
+}
+.item-text{
+width: 80%;
+font-size: 16px;
+}

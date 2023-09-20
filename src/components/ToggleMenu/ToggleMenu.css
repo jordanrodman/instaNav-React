@@ -1,0 +1,9 @@
+.toggleMenu{
+    position: absolute;
+    bottom: 0px;
+    width: 220px;
+    height: 49px;
+    display: flex;
+    margin-left: 20px;
+    padding-top: 10px;
+}
